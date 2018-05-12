@@ -1,0 +1,63 @@
+_repo: Arabische-N-chte_23228
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bethge, Hans
+    birthdate: 1876
+    deathdate: 1946
+    gutenberg_agent_id: '2991'
+    url: http://www.gutenberg.org/2009/agents/2991
+    wikipedia: http://de.wikipedia.org/wiki/Hans_Bethge
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2007-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23228'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PJ'
+- !lcsh 'Arabic poetry -- Translations into German'
+tableOfContents: "HATIM IBN ABDALLAH\r\n  Gastfreundlich und stolz\r\nAMR IL KAÏS\
+  \ (etwa 500-540 n. Chr. Geb.)\r\n  Der Verführer\r\n  Hymne\r\nIL SAMAUAL IBN ADYA\
+  \ (6. Jahrhundert)\r\n  Stammesstolz\r\nAMR IBN KULTHUM (6. Jahrhundert)\r\n  Lob\
+  \ des Weines\r\n  Frage\r\n  Wenn sie allein ist\r\nUNBEKANNTER DICHTER\r\n  Treue\
+  \ Liebe\r\nUNBEKANNTER DICHTER\r\n  Immer zugegen\r\nKALIF YAZID IBN MOAUJA (gestorben\
+  \ 683)\r\n  Die roten Fingernägel\r\n  Der Beneidete\r\n  Der Schatten als Kundschafter\r\
+  \n  Wahnsinn oder Liebe?\r\n  Tötende Liebe\r\n  Die Vernichterin\r\nUNBEKANNTER\
+  \ DICHTER\r\n  Die Vorwürfe\r\nKAÏS IBN IL MULLAUACH (7. Jahrhundert)\r\n  Leïla\r\
+  \nKUTHAIJIR (gestorben 723)\r\n  Verlassen\r\nABBAS IBN IL ACHNAF (8. Jahrhundert)\r\
+  \n  Die Unerbittliche\r\nHARUN AL RASCHID (763-803)\r\n  Die Macht der Liebe\r\n\
+  ABU NUWAS (762-810)\r\n  Ihr Gang ist wogend\r\n  Die Spröde\r\n  Liebe im Traum\r\
+  \n  Im Rausch\r\nMOSLIM IBN IL WALID IL ANSSARI (8. Jahrh.)\r\n  Liebestrunken\r\
+  \n  Leidenschaft\r\n  Trübe Gedanken\r\nUNBEKANNTER DICHTER\r\n  Tränen\r\nMUDRIK\
+  \ IL SCHAÏBANY\r\n  Die Geizige\r\nIBN IL RUMI (gestorben 896)\r\n  Umarmung\r\n\
+  IBN IL MOATTAS (9. Jahrhundert)\r\n  Die Siegerin\r\nSCHULE DES IBN IL MOATTAS\r\
+  \n  Nacht und Morgenröte\r\nKUSCHAGIN (10. Jahrhundert)\r\n  Verpfändet\r\nURAK\
+  \ IL HUTAÏL\r\n  Frage und Antwort\r\nUNBEKANNTER DICHTER\r\n  Verzehrende Liebe\r\
+  \nABU FIRAS (gestorben 968)\r\n  Wünsche\r\nUNBEKANNTER DICHTER\r\n  Aufforderung\r\
+  \n  Kummer\r\n  Im Zweifel\r\n  Frage und Antwort\r\n  Auf eine Rose\r\nIBN IL KHAYAT\
+  \ IL DEMISCHKI (10. Jahrh.)\r\n  Auf der Schwelle\r\nIBN KALAKIS (12. Jahrhundert)\r\
+  \n  Geheime Liebe\r\nUNBEKANNTER DICHTER\r\n  Wogen\r\nABU ABD IL RAHMAN ELAÏTAM\
+  \ ELKUFI\r\n  An ein Schwert\r\nAUS TAUSEND UND EINE NACHT\r\n  Nahmas Porträt\r\
+  \n  Auf Nahmas Schönheit\r\n  Bei Nahmas Abreise\r\n  Auf ein Grab\r\n  An eine\
+  \ Sängerin\r\n  Der Strom der Liebe\r\n  Fragen eines Liebenden\r\n  An einen berühmten\
+  \ Gast\r\nIL HAGYRI (13. Jahrhundert)\r\n  Liebeshymne\r\nUNBEKANNTER DICHTER\r\n\
+  \  Wasser und Feuer\r\nIBN IL FARID (1181-1234)\r\n  Selige Nacht\r\nSCHULE DES\
+  \ IBN IL FARID\r\n  Tränen\r\n  Seltsamer Wunsch\r\nNUBATA (14. Jahrhundert)\r\n\
+  \  Ein Wunder\r\nUNBEKANNTER DICHTER\r\n  Auf einen Apfel\r\n  Weisheit\r\n  Der\
+  \ Liebesbrief\r\n  Der Liebende und die Fackel\r\nACHMED BEN MOHAMMED MOKRI\r\n\
+  \  Sehnsucht nach Damaskus\r\n  Auf einen Garten\r\nIBN HOGGIAT (gestorben 1433)\r\
+  \n  Der verliebte Dichter\r\nSOYUTI (um 1490)\r\n  Frühling\r\n  Erinnerung\r\n\
+  \  An den Zephir\r\n  Der Bach und der Baum\r\nSABBAGH\r\n  Auf ein Pferd\r\nIBN\
+  \ IL SCHAAB (18. Jahrhundert)\r\n  Feuer und Rauch\r\nMAHMUD PASCHA SAMY IL BARUDY\
+  \ (19. Jrh.)\r\n  An die Abwesende\r\nISMAÏL PASCHA SABRY\r\n  Liebesgebet\r\nACHMED\
+  \ BEY SCHAWKY\r\n  Wenn du erscheinst\r\nUNBEKANNTER DICHTER\r\n  Liebeslied"
+title: Arabische Nächte
+url: http://www.gutenberg.org/ebooks/23228
